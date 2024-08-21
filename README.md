@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Justin
-- 👀 I’m interested in Numerical Analysis, Computational Complexity, Computational Mathematics, Applied Linear Algebra.
-- 🌱 I’m currently learning Julia!
+- 👀 I’m interested in Numerical Analysis, Computational Complexity, Computational Mathematics, Algorithm Design.
+- 🌱 I’m currently learning Rust!
 - 💞️ I’m looking to collaborate on anything mentioned in my interests. 
 - 📫 How to reach me j.lutz234@outlook.com
 
